@@ -13,6 +13,7 @@ export function loadDomain(dir) {
 }
 
 export function compileDomain(domain) {
+  // Future place for validation, normalization, indexing, etc.
   return {
     ...domain,
     compiledAt: new Date().toISOString(),

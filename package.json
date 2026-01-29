@@ -1,7 +1,7 @@
 {
   "name": "domainflow",
   "version": "1.0.0",
-  "description": "",
+  "description": "DomainFlow is a lightweight domain modeling engine designed to:",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,5 +9,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "commonjs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seleli/DomainFlow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/seleli/DomainFlow/issues"
+  },
+  "homepage": "https://github.com/seleli/DomainFlow#readme"
 }
